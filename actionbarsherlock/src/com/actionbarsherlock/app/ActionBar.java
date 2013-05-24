@@ -444,7 +444,7 @@ public abstract class ActionBar {
      * @param d Background drawable for the split bar
      */
     public void setSplitBackgroundDrawable(Drawable d) { }
-    
+
     /**
      * Set the ActionBar's Up Indicator to a custom drawable.
      * 
