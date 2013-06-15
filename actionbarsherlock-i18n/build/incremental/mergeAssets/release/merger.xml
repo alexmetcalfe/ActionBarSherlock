@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="actionbarsherlock-4.3.2-SNAPSHOT.aar" >
+        <source path="/Users/alex/dev/projects/alex_actionbarsherlock/actionbarsherlock-i18n/build/exploded-bundles/actionbarsherlock-4.3.2-SNAPSHOT.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/alex/dev/projects/alex_actionbarsherlock/actionbarsherlock-i18n/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/alex/dev/projects/alex_actionbarsherlock/actionbarsherlock-i18n/src/release/assets" />
+    </dataSet>
+
+</merger>

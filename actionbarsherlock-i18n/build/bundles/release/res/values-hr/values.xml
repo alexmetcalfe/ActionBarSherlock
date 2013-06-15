@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="abs__action_bar_home_description">"Kreni na početnu"</string>
+    <string name="abs__action_bar_up_description">"Kreni gore"</string>
+    <string name="abs__action_menu_overflow_description">"Više opcija"</string>
+    <string name="abs__action_mode_done">"Gotovo"</string>
+    <string name="abs__activity_chooser_view_dialog_title_default">"Odabir aktivnosti"</string>
+    <string name="abs__activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string name="abs__activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string name="abs__searchview_description_clear">"Izbriši upit"</string>
+    <string name="abs__searchview_description_query">"Upit za pretraživanje"</string>
+    <string name="abs__searchview_description_search">"Pretraživanje"</string>
+    <string name="abs__searchview_description_submit">"Pošalji upit"</string>
+    <string name="abs__searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string name="abs__share_action_provider_share_with">"Dijeljenje s"</string>
+    <string name="abs__shareactionprovider_share_with">"Dijeljenje sa"</string>
+    <string name="abs__shareactionprovider_share_with_application">"Dijeli s aplikacijom %s"</string>
+    <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Omogući usluge za Google Play"</string>
+    <string name="common_google_play_services_enable_text" msgid="7627896071867667758">"Ova aplikacija neće raditi ako ne omogućite usluge za Google Play."</string>
+    <string name="common_google_play_services_enable_title" msgid="529078775174559253">"Omogući usluge za Google Play"</string>
+    <string name="common_google_play_services_install_button" msgid="8515591849428043265">"Preuzmi usluge za Google Play"</string>
+    <string name="common_google_play_services_install_text_phone" msgid="8685301130651051380">"Ova aplikacija neće funkcionirati bez usluga za Google Play, koje nisu instalirane na vašem telefonu."</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="1589957570365247855">"Ova aplikacija neće funkcionirati bez usluga za Google Play, koje nisu instalirane na vašem tabletnom računalu."</string>
+    <string name="common_google_play_services_install_title" msgid="26645092511305524">"Preuzmi usluge za Google Play"</string>
+    <string name="common_google_play_services_unknown_issue" msgid="4762332809710093730">"Nepoznata poteškoća s uslugama za Google Play."</string>
+    <string name="common_google_play_services_unsupported_text" msgid="3542578567569488671">"Usluge za Google Play, koje su potrebne za funkcioniranje nekih vaših aplikacija, nisu podržane na vašem uređaju. Pomoć potražite od proizvođača."</string>
+    <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Usluge za Google Play"</string>
+    <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Ažuriranje"</string>
+    <string name="common_google_play_services_update_text" msgid="448354684997260580">"Ova se aplikacija neće pokrenuti ako ne ažurirate usluge za Google Play."</string>
+    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Ažuriraj usluge za Google Play"</string>
+    <string name="common_signin_button_text" msgid="9071884888741449141">"Prijava"</string>
+    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Prijava uslugom Google"</string>
+
+</resources>

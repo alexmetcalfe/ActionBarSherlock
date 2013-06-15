@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="abs__action_bar_home_description">"Retour à l\'accueil"</string>
+    <string name="abs__action_bar_up_description">"Parcourir vers le haut"</string>
+    <string name="abs__action_menu_overflow_description">"Plus d\'options"</string>
+    <string name="abs__action_mode_done">"OK"</string>
+    <string name="abs__activity_chooser_view_dialog_title_default">"Sélectionnez une activité"</string>
+    <string name="abs__activity_chooser_view_see_all">"Tout afficher"</string>
+    <string name="abs__activitychooserview_choose_application">"Sélectionnez une application"</string>
+    <string name="abs__searchview_description_clear">"Effacer la requête"</string>
+    <string name="abs__searchview_description_query">"Requête de recherche"</string>
+    <string name="abs__searchview_description_search">"Rechercher"</string>
+    <string name="abs__searchview_description_submit">"Envoyer la requête"</string>
+    <string name="abs__searchview_description_voice">"Recherche vocale"</string>
+    <string name="abs__share_action_provider_share_with">"Partager avec"</string>
+    <string name="abs__shareactionprovider_share_with">"Partager avec"</string>
+    <string name="abs__shareactionprovider_share_with_application">"Partager avec %s"</string>
+    <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Activer services Google Play"</string>
+    <string name="common_google_play_services_enable_text" msgid="7627896071867667758">"Cette application ne fonctionnera pas tant que vous n\'aurez pas activé les services Google Play."</string>
+    <string name="common_google_play_services_enable_title" msgid="529078775174559253">"Activer les services Google Play"</string>
+    <string name="common_google_play_services_install_button" msgid="8515591849428043265">"Installer services Google Play"</string>
+    <string name="common_google_play_services_install_text_phone" msgid="8685301130651051380">"Cette application ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre téléphone."</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="1589957570365247855">"Cette application ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre tablette."</string>
+    <string name="common_google_play_services_install_title" msgid="26645092511305524">"Installer les services Google Play"</string>
+    <string name="common_google_play_services_unknown_issue" msgid="4762332809710093730">"Problème inconnu avec les services Google Play."</string>
+    <string name="common_google_play_services_unsupported_text" msgid="3542578567569488671">"Les services Google Play, dont dépendent certaines de vos applications, ne sont pas compatibles avec votre appareil. Veuillez contacter le fabricant pour obtenir de l\'aide."</string>
+    <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Services Google Play"</string>
+    <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Mettre à jour"</string>
+    <string name="common_google_play_services_update_text" msgid="448354684997260580">"Cette application ne fonctionnera pas tant que vous n\'aurez pas mis à jour les services Google Play."</string>
+    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Mettre à jour les services Google Play"</string>
+    <string name="common_signin_button_text" msgid="9071884888741449141">"Connexion"</string>
+    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Se connecter avec Google"</string>
+
+</resources>

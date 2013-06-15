@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="abs__action_bar_home_description">"Navigeer tuis"</string>
+    <string name="abs__action_bar_up_description">"Navigeer op"</string>
+    <string name="abs__action_menu_overflow_description">"Meer opsies"</string>
+    <string name="abs__action_mode_done">"Klaar"</string>
+    <string name="abs__activity_chooser_view_dialog_title_default">"Kies aktiwiteit"</string>
+    <string name="abs__activity_chooser_view_see_all">"Sien alle"</string>
+    <string name="abs__activitychooserview_choose_application">"Kies \'n program"</string>
+    <string name="abs__searchview_description_clear">"Maak navraag skoon"</string>
+    <string name="abs__searchview_description_query">"Soeknavraag"</string>
+    <string name="abs__searchview_description_search">"Soek"</string>
+    <string name="abs__searchview_description_submit">"Dien navraag in"</string>
+    <string name="abs__searchview_description_voice">"Stemsoektog"</string>
+    <string name="abs__share_action_provider_share_with">"Deel met"</string>
+    <string name="abs__shareactionprovider_share_with">"Deel met"</string>
+    <string name="abs__shareactionprovider_share_with_application">"Deel met %s"</string>
+    <string name="common_google_play_services_enable_button" msgid="4181637455539816337">"Aktiveer Google Play-dienste"</string>
+    <string name="common_google_play_services_enable_text" msgid="7627896071867667758">"Hierdie program sal nie werk tensy jy Google Play-dienste aktiveer nie."</string>
+    <string name="common_google_play_services_enable_title" msgid="529078775174559253">"Aktiveer Google Play-dienste"</string>
+    <string name="common_google_play_services_install_button" msgid="8515591849428043265">"Kry Google Play-dienste"</string>
+    <string name="common_google_play_services_install_text_phone" msgid="8685301130651051380">"Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou foon is nie."</string>
+    <string name="common_google_play_services_install_text_tablet" msgid="1589957570365247855">"Hierdie program sal nie loop sonder Google Play-dienste nie, wat nie op jou tablet is nie."</string>
+    <string name="common_google_play_services_install_title" msgid="26645092511305524">"Kry Google Play-dienste"</string>
+    <string name="common_google_play_services_unknown_issue" msgid="4762332809710093730">"Onbekende probleem met Google Play-dienste."</string>
+    <string name="common_google_play_services_unsupported_text" msgid="3542578567569488671">"Google Play-dienste, waarop sommige van jou programme staatmaak, werk nie met jou toestel nie. Kontak asseblief die vervaardiger vir bystand."</string>
+    <string name="common_google_play_services_unsupported_title" msgid="6334768798839376943">"Google Play-dienste"</string>
+    <string name="common_google_play_services_update_button" msgid="8932944190611227642">"Dateer op"</string>
+    <string name="common_google_play_services_update_text" msgid="448354684997260580">"Hierdie program sal nie loop nie, tensy jy Google Play-dienste opdateer."</string>
+    <string name="common_google_play_services_update_title" msgid="6006316683626838685">"Dateer Google Play-dienste op"</string>
+    <string name="common_signin_button_text" msgid="9071884888741449141">"Meld aan"</string>
+    <string name="common_signin_button_text_long" msgid="2429381841831957106">"Meld aan met Google"</string>
+
+</resources>
